@@ -8,6 +8,14 @@ Select All: A checkbox to select or deselect all categories.
 Individual Category Checkbox: Checkboxes for each unique category.
 Data Table: Displays filtered data based on selected categories.
 
+![check-box](https://github.com/Manikaaggarwal24/check-box-react/assets/140894635/b651b28b-8723-44ca-bae5-64de4628257e)
+![check-box1](https://github.com/Manikaaggarwal24/check-box-react/assets/140894635/fdcda8ed-11ba-4a34-b3a8-392077c2d45d)
+![check-box3](https://github.com/Manikaaggarwal24/check-box-react/assets/140894635/b82066de-8ed6-4153-b428-0c9146666087)
+![check-box4](https://github.com/Manikaaggarwal24/check-box-react/assets/140894635/be34b60c-9925-4ac5-a444-f97691cf6a72)
+
+
+
+
 ## Functionality
 
 Filtering Data:
